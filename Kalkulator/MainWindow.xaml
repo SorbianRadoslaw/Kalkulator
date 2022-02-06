@@ -5,11 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Kalkulator"
         mc:Ignorable="d"
-        Title="Kalkulator" Height="600" Width="400" ResizeMode="NoResize" >
+        Title="Kalkulator" Height="350" Width="640" ResizeMode="NoResize" >
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="15"/>
-        </Grid.ColumnDefinitions>
-
+        
     </Grid>
 </Window>
